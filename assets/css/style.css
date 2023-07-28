@@ -1524,4 +1524,17 @@ section {
     text-transform: capitalize;
 }
 
+.btn input {
+    border: none;
+    outline: none;
+    padding: 0.625rem 1.125rem;
+    background: #E31C25;
+    color: #fff;
+    font-size: .9375rem;
+    text-transform: capitalize;
+    cursor: pointer;
+
+}
+
+
 /*# sourceMappingURL=style.css.map */
